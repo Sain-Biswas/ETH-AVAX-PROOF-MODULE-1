@@ -1,4 +1,4 @@
-#Project Submission Eth + Avax Proof
+# Project Submission Eth + Avax Proof
 
 In this project we have created three functions under the contract ExampleContract.
 
